@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E6C5228B-186E-46F4-A8BE-361516858AFA}|Consumer\\Consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0F1680A1-719E-4411-8421-1E1E16798326}|Producer\\Producer.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\rabbitmqapp\\first_rabbitmq_app\\producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F1680A1-719E-4411-8421-1E1E16798326}|Producer\\Producer.csproj|solutionrelative:producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F1680A1-719E-4411-8421-1E1E16798326}|Producer\\Producer.csproj|c:\\users\\azimetolumo\u011Flu\\desktop\\rabbitmqapp\\first_rabbitmq_app\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F1680A1-719E-4411-8421-1E1E16798326}|Producer\\Producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producer",
+              "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\RabbitMqApp\\First_RabbitMq_App\\Producer\\Producer.csproj",
+              "RelativeDocumentMoniker": "Producer\\Producer.csproj",
+              "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\RabbitMqApp\\First_RabbitMq_App\\Producer\\Producer.csproj",
+              "RelativeToolTip": "Producer\\Producer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T11:45:15.031Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "Consumer\\Program.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\RabbitMqApp\\First_RabbitMq_App\\Consumer\\Program.cs",
               "RelativeToolTip": "Consumer\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T08:18:13.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\RabbitMqApp\\First_RabbitMq_App\\Producer\\Program.cs",
               "RelativeDocumentMoniker": "Producer\\Program.cs",
               "ToolTip": "C:\\Users\\AzimeTolumo\u011Flu\\Desktop\\RabbitMqApp\\First_RabbitMq_App\\Producer\\Program.cs",
               "RelativeToolTip": "Producer\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T07:58:54.29Z",
               "EditorCaption": ""
