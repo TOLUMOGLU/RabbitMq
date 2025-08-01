@@ -1,6 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
+using System.Threading.Tasks;
 using RabbitMQ.Client;
 
 
@@ -17,10 +18,23 @@ channel.QueueDeclare(
     autoDelete: false,
     arguments: null);
 
-var message = "This is my first message";
+var random = new Random();
 
-var encodedMessage = Encoding.UTF8.GetBytes(message);
+var messageId = 1;
 
-channel.BasicPublish("", "letterbox", null, encodedMessage);
+while (true)
+{
+    var publishtingTime = random.Next(1, 4);
 
-Console.WriteLine($"Published message: {message}");   
+    var message = $"Sending MessageId: {messageId}";
+
+    var encodedMessage = Encoding.UTF8.GetBytes(message);
+
+    channel.BasicPublish("", "letterbox", null, encodedMessage);
+
+    Console.WriteLine($"Published message: {message}");
+
+    Task.Delay(TimeSpan.FromSeconds(publishtingTime)).Wait();
+
+    messageId++;
+}

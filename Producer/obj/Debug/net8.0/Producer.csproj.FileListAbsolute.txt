@@ -15,3 +15,4 @@ C:\Users\AzimeTolumoğlu\Desktop\RabbitMqApp\First_RabbitMq_App\Producer\obj\Deb
 C:\Users\AzimeTolumoğlu\Desktop\RabbitMqApp\First_RabbitMq_App\Producer\obj\Debug\net8.0\Producer.pdb
 C:\Users\AzimeTolumoğlu\Desktop\RabbitMqApp\First_RabbitMq_App\Producer\obj\Debug\net8.0\Producer.genruntimeconfig.cache
 C:\Users\AzimeTolumoğlu\Desktop\RabbitMqApp\First_RabbitMq_App\Producer\obj\Debug\net8.0\ref\Producer.dll
+C:\Users\AzimeTolumoğlu\Desktop\RabbitMqApp\First_RabbitMq_App\Producer\obj\Debug\net8.0\Producer.sourcelink.json
